@@ -1,4 +1,4 @@
-Grit
+Grit(Thanks, mojombo.I put your Grit to my git-repo)
 ====
 
 Grit gives you object oriented read/write access to Git repositories via Ruby.
